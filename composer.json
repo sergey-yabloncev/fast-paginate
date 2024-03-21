@@ -1,5 +1,5 @@
 {
-    "name": "hammerstone/fast-paginate",
+    "name": "sergey-yabloncev/fast-paginate",
     "description": "Fast paginate for Laravel",
     "type": "library",
     "license": "MIT",
